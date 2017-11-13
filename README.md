@@ -1,4 +1,4 @@
-# Terminal Swtich Script
+# Terminal Switch Script
 
 Prerequests:
 
